@@ -1,0 +1,15 @@
+aside {
+	display: block;
+	margin: 0 auto;
+	width: 840px;
+}
+
+
+section {
+	display: none;
+	float: right;
+}
+
+li {
+	list-style-type: none;
+}
